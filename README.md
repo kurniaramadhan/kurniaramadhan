@@ -35,7 +35,7 @@
   👋 Hi, I’m Kurnia Ramadhan Putra <br/>
   👀 I’m enjoy to do programming and sharing knowledge <br/>
   🌱 I’m currently lecturer at Institut Teknologi Nasional Bandung <br/>
-  📧 How to reach me kurniaramadhan@itenas.ac.id
+  📧 Reach me at kurniaramadhan@itenas.ac.id
 </p>
 
 ## Skills
